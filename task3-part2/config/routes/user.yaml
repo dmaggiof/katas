@@ -1,3 +1,0 @@
-module_user_controllers:
-  resource: '../../src/Marketplace/Infrastructure/User/Controllers'
-  type: attribute
