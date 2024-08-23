@@ -1,5 +1,5 @@
 ####
-Given the code from the file original_code.php, make a list describing the improvements you would make to it. Then implement them.
+Given the code from the file original_code.php, make a list describing the improvements you would make to it. Then implement them as a proof of concept, meaning that it is not necessary that the code is fully functional.
 
 #### List of improvements:
 
